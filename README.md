@@ -1,7 +1,8 @@
 # Miami landing page
 Landing page for real estate company. Discription for this conpany, Gallery, contacts.
-    - [MOCKUP](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3&mode=dev)
-    - [DEMO](https://victorgri.github.io/landing_miami/)
+
+   - [MOCKUP](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3&mode=dev)
+    - [DEMO](https://victorgri.github.io/miami-landing/)
 
 # Technologies used
   - HTML5
